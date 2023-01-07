@@ -1,5 +1,6 @@
 [prod]
-localhost
+172.42.42.102
+172.42.42.103
 
 # This is the default ansible 'hosts' file.
 #

@@ -1,0 +1,9 @@
+---
+- name: Patching for all the hosts
+  hosts: all
+  tasks:
+  - name: Check for subscription
+    user:
+      name: idma
+      uid:
+      pass
